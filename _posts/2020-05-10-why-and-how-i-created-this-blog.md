@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why? And How? of this blog.
-subtitle: Why and How I created this blog? -Author
+subtitle: Why and How I created this blog?
 gh-repo: akiitr/akiitr.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
