@@ -145,6 +145,19 @@ footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
+# Dark mode colours
+navbar-col-dark: "#2c3e50"
+navbar-text-col-dark: "#ecf0f1"
+navbar-border-col-dark: "#34495e"
+page-col-dark: "#34495e"
+text-col-dark: "#ecf0f1"
+link-col-dark: "#3498db"
+hover-col-dark: "#2980b9"
+footer-col-dark: "#2c3e50"
+footer-text-col-dark: "#bdc3c7"
+footer-link-col-dark: "#ecf0f1"
+footer-hover-col-dark: "#3498db"
+
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
@@ -160,7 +173,8 @@ footer-hover-col: "#0085A1"
 #  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
-#site-js:
+site-js:
+  - "/assets/js/theme-toggle.js"
 #  - "/assets/js/custom-script.js"
 
 #################################

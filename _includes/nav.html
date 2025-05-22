@@ -30,6 +30,15 @@
           </li>
         {%- endif -%}
       {%- endfor -%}
+      <!-- Theme Toggle Switch -->
+      <li class="nav-item theme-switch-wrapper align-items-center ml-2"> <!-- Added align-items-center and ml-2 for spacing -->
+        <label class="theme-switch" for="checkbox">
+          <input type="checkbox" id="checkbox" />
+          <div class="slider round"></div>
+        </label>
+        <!-- You can add sun/moon icons here if FontAwesome is available -->
+        <!-- Example: <em class="fa fa-moon" style="color: #f1c40f;"></em> -->
+      </li>
       {% if site.post_search %}
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">
