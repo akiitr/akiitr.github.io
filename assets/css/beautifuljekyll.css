@@ -1093,3 +1093,176 @@ pre {
     display: inline-block;
   }
 }
+
+/* --- Dark Mode --- */
+body.dark-mode {
+  background-color: {{ site.page-col-dark | default: "#34495e" }};
+  color: {{ site.text-col-dark | default: "#ecf0f1" }};
+}
+
+body.dark-mode a {
+  color: {{ site.link-col-dark | default: "#3498db" }};
+}
+
+body.dark-mode a:hover,
+body.dark-mode a:focus {
+  color: {{ site.hover-col-dark | default: "#2980b9" }};
+}
+
+body.dark-mode hr.small {
+  border-color: inherit;
+}
+
+body.dark-mode .navbar-custom {
+  background-color: {{ site.navbar-col-dark | default: "#2c3e50" }};
+  border-bottom-color: {{ site.navbar-border-col-dark | default: "#34495e" }};
+}
+
+body.dark-mode .navbar-custom .navbar-brand,
+body.dark-mode .navbar-custom .navbar-nav .nav-link {
+  color: {{ site.navbar-text-col-dark | default: "#ecf0f1" }};
+}
+
+body.dark-mode .navbar-custom .navbar-brand:hover,
+body.dark-mode .navbar-custom .navbar-brand:focus,
+body.dark-mode .navbar-custom .navbar-nav .nav-link:hover,
+body.dark-mode .navbar-custom .navbar-nav .nav-link:focus,
+body.dark-mode .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:hover,
+body.dark-mode .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:focus {
+  color: {{ site.hover-col-dark | default: "#2980b9" }};
+}
+
+body.dark-mode .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
+  background-color: {{ site.navbar-col-dark | default: "#2c3e50" }};
+  color: {{ site.navbar-text-col-dark | default: "#ecf0f1" }};
+  border-color: {{ site.navbar-border-col-dark | default: "#34495e" }};
+}
+
+body.dark-mode .navbar-custom .navbar-toggler[aria-expanded="true"] {
+  background-color: rgba(255, 255, 255, 0.1); /* Lighter background for toggler when expanded in dark mode */
+}
+
+body.dark-mode footer {
+  background-color: {{ site.footer-col-dark | default: "#2c3e50" }};
+  border-top-color: {{ site.navbar-border-col-dark | default: "#34495e" }}; /* Using navbar border for consistency */
+}
+
+body.dark-mode footer p.text-muted {
+  color: {{ site.footer-text-col-dark | default: "#bdc3c7" }} !important;
+}
+
+body.dark-mode footer a {
+  color: {{ site.footer-link-col-dark | default: "#ecf0f1" }};
+}
+
+body.dark-mode footer a:hover,
+body.dark-mode footer a:focus {
+  color: {{ site.footer-hover-col-dark | default: "#3498db" }};
+}
+
+body.dark-mode .post-preview a {
+  color: {{ site.text-col-dark | default: "#ecf0f1" }};
+}
+body.dark-mode .post-preview a:focus,
+body.dark-mode .post-preview a:hover {
+  color: {{ site.hover-col-dark | default: "#2980b9" }};
+}
+body.dark-mode .post-preview .post-meta,
+body.dark-mode .post-heading .post-meta {
+  color: #bdc3c7; /* A slightly lighter grey for meta text */
+}
+body.dark-mode .blog-tags a {
+  color: {{ site.text-col-dark | default: "#ecf0f1" }};
+  opacity: 0.7;
+}
+body.dark-mode .blog-tags a:hover {
+  opacity: 1;
+  border-color: {{ site.text-col-dark | default: "#ecf0f1" }};
+}
+body.dark-mode code { /* Code block styling */
+  color: #e67e22; /* Orange for code text */
+  background-color: #4f5b66; /* Darker background for code */
+}
+body.dark-mode pre {
+background-color: #2c3e50; /* Even darker for pre blocks */
+border-left-color: #3498db; /* Link color for border */
+}
+body.dark-mode .highlight > pre {
+background-image: linear-gradient(
+  rgba(255,255,255,0.03), rgba(255,255,255,0.03) 1.5em, rgba(255,255,255,0.02) 1.5em, rgba(255,255,255,0.02) 3em);
+border: 1px solid rgba(255,255,255,0.1);
+border-left: 0.4375rem solid {{ site.link-col-dark | default: "#3498db" }};
+}
+body.dark-mode .highlight pre.lineno {
+  color: rgba(255,255,255,0.3);
+  border-right: 2px solid {{ site.link-col-dark | default: "#3498db" }};
+}
+
+/* --- Theme Toggle Switch --- */
+.theme-switch-wrapper {
+  display: flex;
+  align-items: center;
+  margin-left: 15px; /* Adjust as needed for placement in navbar */
+}
+
+.theme-switch {
+  display: inline-block;
+  height: 24px; /* Adjusted height */
+  position: relative;
+  width: 50px; /* Adjusted width */
+}
+
+.theme-switch input {
+  display:none;
+}
+
+.slider {
+  background-color: #ccc;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: .4s;
+}
+
+.slider:before {
+  background-color: #fff;
+  bottom: 3px; /* Adjusted for new height */
+  content: "";
+  height: 18px; /* Adjusted for new height */
+  left: 3px; /* Adjusted for new height */
+  position: absolute;
+  transition: .4s;
+  width: 18px; /* Adjusted for new height */
+}
+
+input:checked + .slider {
+  background-color: {{ site.link-col | default: "#008AFF" }}; /* Use light theme link color for active dark mode */
+}
+
+body.dark-mode input:checked + .slider {
+  background-color: {{ site.link-col-dark | default: "#3498db" }}; /* Use dark theme link color */
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px); /* Adjusted for new width */
+}
+
+.slider.round {
+  border-radius: 24px; /* Adjusted for new height */
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+/* Optional: Icons for sun/moon - requires adding icons to the HTML later */
+.theme-switch-wrapper em {
+  margin-left: 5px;
+  font-size: 1rem;
+}
+/* Style for sun/moon icons if you add them */
+body.dark-mode .fa-sun { display: none; }
+body:not(.dark-mode) .fa-moon { display: none; }
