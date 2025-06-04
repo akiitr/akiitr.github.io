@@ -146,17 +146,17 @@ footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
 # Dark mode colours
-navbar-col-dark: "#2c3e50"
-navbar-text-col-dark: "#ecf0f1"
-navbar-border-col-dark: "#34495e"
-page-col-dark: "#34495e"
-text-col-dark: "#ecf0f1"
-link-col-dark: "#3498db"
-hover-col-dark: "#2980b9"
-footer-col-dark: "#2c3e50"
-footer-text-col-dark: "#bdc3c7"
-footer-link-col-dark: "#ecf0f1"
-footer-hover-col-dark: "#3498db"
+navbar-col-dark: "#1a1a1a"
+navbar-text-col-dark: "#e0e0e0"
+navbar-border-col-dark: "#2a2a2a"
+page-col-dark: "#121212"
+text-col-dark: "#e0e0e0"
+link-col-dark: "#ffffff"
+hover-col-dark: "#b0b0b0"
+footer-col-dark: "#1a1a1a"
+footer-text-col-dark: "#b0b0b0"
+footer-link-col-dark: "#e0e0e0"
+footer-hover-col-dark: "#ffffff"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -313,4 +313,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
