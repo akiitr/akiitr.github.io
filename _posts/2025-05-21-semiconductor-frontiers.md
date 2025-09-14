@@ -2,7 +2,7 @@
 layout: post
 title: "Semiconductors: The Unsung Heroes of the Digital Age"
 subtitle: "A journey into the heart of modern technology, exploring the innovation and impact of semiconductor chips."
-cover-img: /assets/img/semiconductor-cover-placeholder.jpg # Placeholder - user to replace
+cover-img: https://raw.githubusercontent.com/akiitr/zhi_research/refs/heads/main/docs/assets/ai_agent_doing_nuclear_experiment.jpg # Placeholder - user to replace
 thumbnail-img: https://raw.githubusercontent.com/akiitr/zhi_research/refs/heads/main/docs/assets/ai_agent_doing_nuclear_experiment.jpg # Placeholder - user to replace
 share-img: /assets/img/semiconductor-share-placeholder.jpg # Placeholder - user to replace
 tags: [Semiconductors, Technology, Hardware, Innovation, Engineering]
@@ -17,7 +17,7 @@ At their core, semiconductors are materials, like silicon, that have electrical 
 
 A single chip today can contain billions of transistors, each acting as a miniature switch. This integration, known as an Integrated Circuit (IC), is what gives devices their "smart" capabilities.
 
-![Placeholder image of a semiconductor wafer or chip](/assets/img/semiconductor-blog-placeholder.jpg)
+![Placeholder image of a semiconductor wafer or chip]([A Semiconducotr Lab](https://raw.githubusercontent.com/akiitr/zhi_research/refs/heads/main/docs/assets/ai_agent_doing_nuclear_experiment.jpg))
 *Caption: Billions of transistors on a tiny piece of silicon – the magic of modern engineering.*
 
 ## Key Innovations Driving the Frontier
