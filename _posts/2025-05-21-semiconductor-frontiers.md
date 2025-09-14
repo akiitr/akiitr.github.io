@@ -3,7 +3,7 @@ layout: post
 title: "Semiconductors: The Unsung Heroes of the Digital Age"
 subtitle: "A journey into the heart of modern technology, exploring the innovation and impact of semiconductor chips."
 cover-img: /assets/img/semiconductor-cover-placeholder.jpg # Placeholder - user to replace
-thumbnail-img: /assets/img/semiconductor-thumb-placeholder.jpg # Placeholder - user to replace
+thumbnail-img: https://raw.githubusercontent.com/akiitr/zhi_research/refs/heads/main/docs/assets/ai_agent_doing_nuclear_experiment.jpg # Placeholder - user to replace
 share-img: /assets/img/semiconductor-share-placeholder.jpg # Placeholder - user to replace
 tags: [Semiconductors, Technology, Hardware, Innovation, Engineering]
 author: Anubhav Kumar # Or the default site author
