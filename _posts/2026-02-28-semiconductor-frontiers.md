@@ -2,11 +2,12 @@
 layout: post
 title: "Semiconductors: The Unsung Heroes of the Digital Age"
 subtitle: "A journey into the heart of modern technology, exploring the innovation and impact of semiconductor chips."
-cover-img: https://raw.githubusercontent.com/akiitr/zhi_research/refs/heads/main/docs/assets/ai_agent_doing_nuclear_experiment.jpg # Placeholder - user to replace
-thumbnail-img: https://raw.githubusercontent.com/akiitr/zhi_research/refs/heads/main/docs/assets/ai_agent_doing_nuclear_experiment.jpg # Placeholder - user to replace
-share-img: /assets/img/semiconductor-share-placeholder.jpg # Placeholder - user to replace
+date: 2026-02-28
+cover-img: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=2070
+thumbnail-img: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=150
+share-img: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=2070
 tags: [Semiconductors, Technology, Hardware, Innovation, Engineering]
-author: Anubhav Kumar # Or the default site author
+author: Anubhav Kumar
 ---
 
 In an era dominated by smart devices, cloud computing, and artificial intelligence, it's easy to overlook the microscopic marvels that make it all possible: semiconductors. These tiny chips are the bedrock of the digital world, the unsung heroes powering everything from your smartphone to the most advanced supercomputers. This post celebrates the ingenuity behind semiconductor technology and explores its profound impact on our lives.

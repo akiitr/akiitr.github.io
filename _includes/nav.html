@@ -31,13 +31,13 @@
         {%- endif -%}
       {%- endfor -%}
       <!-- Theme Toggle Switch -->
-      <li class="nav-item theme-switch-wrapper align-items-center ml-2"> <!-- Added align-items-center and ml-2 for spacing -->
+      <li class="nav-item theme-switch-wrapper d-flex align-items-center ml-2"> <!-- Added d-flex for alignment -->
         <label class="theme-switch" for="checkbox">
           <input type="checkbox" id="checkbox" />
           <div class="slider round"></div>
         </label>
-        <!-- You can add sun/moon icons here if FontAwesome is available -->
-        <!-- Example: <em class="fa fa-moon" style="color: #f1c40f;"></em> -->
+        <i class="fas fa-sun ml-2" style="color: #f1c40f;"></i>
+        <i class="fas fa-moon ml-2" style="color: #f39c12;"></i>
       </li>
       {% if site.post_search %}
         <li class="nav-item">

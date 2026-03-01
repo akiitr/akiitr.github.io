@@ -2,11 +2,12 @@
 layout: post
 title: "AI's Crucial Role: From Netlist to GDSII in Semiconductor Design"
 subtitle: "How Artificial Intelligence is revolutionizing the intricate process of chip creation, enhancing efficiency and innovation."
-cover-img: /assets/img/ai-semicon-cover-placeholder.jpg # Placeholder - user to replace
-thumbnail-img: /assets/img/ai-semicon-thumb-placeholder.jpg # Placeholder - user to replace
-share-img: /assets/img/ai-semicon-share-placeholder.jpg # Placeholder - user to replace
+date: 2026-02-20
+cover-img: https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=2070
+thumbnail-img: https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=150
+share-img: https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=2070
 tags: [AI, Semiconductors, EDA, VLSI, GDSII, Netlist, Chip Design, Technology]
-author: Anubhav Kumar # Or the default site author
+author: Anubhav Kumar
 ---
 
 The journey of a semiconductor chip from a logical design (Netlist) to the final manufacturing blueprint (GDSII) is one of the most complex engineering feats undertaken by humanity. Traditionally, this process, managed by Electronic Design Automation (EDA) tools, has been time-consuming and resource-intensive. Now, Artificial Intelligence (AI) is emerging as a transformative force, promising to optimize every stage, accelerate innovation, and tackle the growing complexity of modern System-on-Chips (SoCs).

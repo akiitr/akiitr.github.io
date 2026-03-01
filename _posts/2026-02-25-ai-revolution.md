@@ -2,11 +2,12 @@
 layout: post
 title: "The AI Revolution: Navigating Our Future"
 subtitle: "Exploring the transformative power of Artificial Intelligence and its impact on society, industry, and daily life."
-cover-img: /assets/img/ai-cover-placeholder.jpg # Placeholder - user to replace
-thumbnail-img: /assets/img/ai-thumb-placeholder.jpg # Placeholder - user to replace
-share-img: /assets/img/ai-share-placeholder.jpg # Placeholder - user to replace
+date: 2026-02-25
+cover-img: https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=2070
+thumbnail-img: https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=150
+share-img: https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=2070
 tags: [AI, Technology, Future, Innovation]
-author: Anubhav Kumar # Or the default site author
+author: Anubhav Kumar
 ---
 
 Artificial Intelligence (AI) is no longer a futuristic fantasy; it's a present-day reality reshaping our world at an unprecedented pace. From the algorithms that power our search engines to the sophisticated systems driving autonomous vehicles, AI is weaving itself into the fabric of our existence. This post delves into the inspiring potential of AI, the ethical considerations it brings, and how we can collectively navigate this technological frontier.
