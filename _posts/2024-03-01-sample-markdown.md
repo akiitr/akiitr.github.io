@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 mathjax: true
 author: Anubhav Kumar
-date: 2026-02-15
+date: 2024-03-01
 cover-img: https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=2072
 thumbnail-img: https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=150
 share-img: https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=2072

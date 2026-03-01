@@ -2,7 +2,7 @@
 layout: post
 title: "AI's Crucial Role: From Netlist to GDSII in Semiconductor Design"
 subtitle: "How Artificial Intelligence is revolutionizing the intricate process of chip creation, enhancing efficiency and innovation."
-date: 2026-02-20
+date: 2024-09-01
 cover-img: https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=2070
 thumbnail-img: https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=150
 share-img: https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=2070

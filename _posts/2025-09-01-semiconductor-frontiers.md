@@ -2,7 +2,7 @@
 layout: post
 title: "Semiconductors: The Unsung Heroes of the Digital Age"
 subtitle: "A journey into the heart of modern technology, exploring the innovation and impact of semiconductor chips."
-date: 2026-02-28
+date: 2025-09-01
 cover-img: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=2070
 thumbnail-img: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=150
 share-img: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=2070

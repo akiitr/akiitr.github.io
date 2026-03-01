@@ -2,7 +2,7 @@
 layout: post
 title: "The AI Revolution: Navigating Our Future"
 subtitle: "Exploring the transformative power of Artificial Intelligence and its impact on society, industry, and daily life."
-date: 2026-02-25
+date: 2025-03-01
 cover-img: https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=2070
 thumbnail-img: https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=150
 share-img: https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=2070

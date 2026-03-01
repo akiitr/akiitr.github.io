@@ -1,51 +1,32 @@
 ---
 layout: page
 title: About me
-subtitle: Physical Design Engineer | AI/ML Innovator | Trekker
+subtitle: Hardware Engineer | AI/ML Enthusiast | Outdoor Explorer
 ---
 
-### Hello! I'm Anubhav Kumar.
+### 👋 Hello! I'm Anubhav.
 
-I am a results-oriented **Physical Design Sign-off Hardware Engineer** currently driving innovation at **Qualcomm**, Bangalore. With a deep expertise in **STA, SI sign-off, and PDN analysis**, I specialize in advanced semiconductor designs down to **3nm**.
+I am a dedicated **Hardware Engineer** with a strong focus on advanced semiconductor design and methodology. My professional journey is driven by a passion for creating efficient, high-performance systems and exploring the transformative power of **AI and Machine Learning** in the hardware domain.
 
-My work focuses on closing timing and power integrity for complex SoCs, where I've successfully achieved significant PPA improvements. I am particularly passionate about the convergence of **Semiconductors and AI**, and I'm currently developing AI/ML agents to automate and enhance design and sign-off methodologies.
+### 🚀 Professional Philosophy
 
-### 🚀 Professional Journey
+My approach is centered on **innovation, precision, and continuous learning**. I believe that the future of technology lies at the intersection of robust hardware engineering and intelligent software orchestration. I strive to build solutions that are not just performant, but also sustainable and scalable.
 
-- **Lead Engineer, Senior at Qualcomm (2020 - Present):**
-  - Led STA closure for high-performance GPU and SOC cores.
-  - Improved frequency by ~10% and achieved 22% area recovery.
-  - Reduced turnaround time for PDN sign-off by 28% through automation.
-  - Developed **Chatwise**, a domain-specific RAG AI agent for technical knowledge access.
-- **Dy Engineer at Bharat Electronics Limited (2018):**
-  - Designed logic circuit boards for Electronic Voting Machines (EVM).
-- **QA/QC Engineer at Lava International Limited (2016 - 2017):**
-  - Hardware QA and Reliability Assurance.
+- **Hardware Engineering:** Expertise in complex SoC design flows, focusing on timing, power integrity, and physical sign-off.
+- **AI/ML Innovation:** Developing intelligent agents and automated methodologies to streamline design processes and enhance engineering decision-making.
+- **Problem Solving:** A deep-seated interest in tackling complex technical challenges and delivering high-impact solutions.
 
-### 🎓 Education & Honors
+### 🎓 Academic Foundation
 
-- **M.Tech in Microelectronics and VLSI** – Indian Institute of Technology (IIT), Roorkee (2020)
-  - **Gold Medalist** for research on Variability-Aware STA methodology.
-- **B.Tech in Electronics and Communication Engineering** – LPU Jalandhar (2016)
+My technical expertise is grounded in a rigorous academic background in **Microelectronics and VLSI**. I've spent years researching variability-aware methodologies and advanced IC fabrication techniques, always aiming to push the boundaries of what's possible in semiconductor technology.
 
-### 🛠️ Skills & Expertise
+### 🏔️ Beyond the Screen
 
-- **EDA Tools:** PrimeTime, Tempus, Redhawk-SC, Voltus, Innovus, Fusion Compiler.
-- **Programming:** Python, Tcl-Tk, Perl, Verilog, HTML/JS/CSS.
-- **AI/ML:** LLMs, RAG, Data Analysis, TensorFlow.
-- **Domain Expertise:** STA, PDN, Sign-off, Low-power design, ECO implementation.
+When I'm not in the lab or at my desk, I find inspiration in the great outdoors:
+- **Trekking:** Leading high-altitude expeditions and exploring remote mountain trails.
+- **Cooking:** Finding balance through culinary experimentation and the art of fine flavors.
+- **Learning:** Engaging in deep discussions on philosophy, technology, and the future of human-AI collaboration.
 
-### 🏔️ Beyond the Lab
+### 📬 Connect
 
-When I'm not optimizing chips or building AI agents, you can find me:
-- **Trekking:** I served as a High Altitude Trek Leader at IIT Roorkee, leading expeditions to peaks of ~5000m.
-- **Cooking:** Experimenting with new recipes is my favorite way to unwind.
-- **Exploring:** I love meeting new people and engaging in deep philosophical debates.
-
-### 📬 Let's Connect!
-
-I'm always open to discussing semiconductor frontiers, AI innovations, or the next great mountain trail.
-
-- **LinkedIn:** [anubhavk95](https://linkedin.com/in/anubhavk95)
-- **GitHub:** [akiitr](https://github.com/akiitr)
-- **Email:** [anubhavkumar.995@gmail.com](mailto:anubhavkumar.995@gmail.com)
+I'm always open to connecting with fellow engineers, tech enthusiasts, and explorers. Feel free to reach out through my social channels or check out my latest thoughts in the blog section.
