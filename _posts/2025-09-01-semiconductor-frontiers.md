@@ -18,9 +18,6 @@ At their core, semiconductors are materials, like silicon, that have electrical 
 
 A single chip today can contain billions of transistors, each acting as a miniature switch. This integration, known as an Integrated Circuit (IC), is what gives devices their "smart" capabilities.
 
-![A Semiconducotr Lab](https://raw.githubusercontent.com/akiitr/zhi_research/refs/heads/main/docs/assets/ai_agent_doing_nuclear_experiment.jpg)
-*Caption: Billions of transistors on a tiny piece of silicon – the magic of modern engineering.*
-
 ## Key Innovations Driving the Frontier
 
 The semiconductor industry is a hotbed of relentless innovation. Engineers and scientists are constantly pushing the boundaries of physics and materials science.
