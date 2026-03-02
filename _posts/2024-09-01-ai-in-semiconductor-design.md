@@ -27,8 +27,7 @@ Before diving into AI's role, let's briefly touch upon the key stages from Netli
 
 Each of these stages involves immense computational effort and intricate decision-making.
 
-![Placeholder image of a complex chip layout or GDSII view](/assets/img/ai-semicon-placeholder.jpg)
-*Caption: AI is helping navigate the labyrinth of modern chip design.*
+
 
 ## How AI is Revolutionizing Chip Design (Netlist to GDSII)
 

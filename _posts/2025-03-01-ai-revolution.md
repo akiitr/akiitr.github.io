@@ -22,8 +22,7 @@ AI's journey has been one of rapid evolution. What started as simple rule-based 
 
 These advancements are not just academic; they are fueling innovations across every sector.
 
-![Placeholder image of an abstract AI concept](/assets/img/ai-blog-placeholder.jpg)
-*Caption: AI is unlocking new dimensions of possibility.*
+
 
 ## Impact Across Industries
 
