@@ -23,10 +23,6 @@ My technical expertise is grounded in a rigorous academic background in **Microe
 ### 🏔️ Beyond the Screen
 
 When I'm not in the lab or at my desk, I find inspiration in the great outdoors:
-- **Trekking:** Leading high-altitude expeditions and exploring remote mountain trails.
-- **Cooking:** Finding balance through culinary experimentation and the art of fine flavors.
-- **Learning:** Engaging in deep discussions on philosophy, technology, and the future of human-AI collaboration.
-
-### 📬 Connect
-
-I'm always open to connecting with fellow engineers, tech enthusiasts, and explorers. Feel free to reach out through my social channels or check out my latest thoughts in the blog section.
+- **Trekking:** Enjoying high-altitude expeditions and exploring remote mountain trails.
+- **Cooking:** Finding balance through culinary experimentation.
+- **Learning:** Engaging in deep discussions on technology and the future.
